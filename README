@@ -4,3 +4,10 @@ This is the project folder of our final DS266 submission Summer 2025
 Authors: Kowsalya Ganesan, Mala Ramakrishnan
 
 DS266_Project_MCQ+ARC_Mala.ipynb has the code for the Science MCQ fine tuning and evaluation using the ARC dataset.
+
+Question Answering task:
+
+Baseline Code - QA_Project Baseline_T5.ipynb
+Final Answer Prediction - QA_Final_Answer_Prediction_Llama_3_1.ipynb 
+Step by Step Solution - QA_Step_By_Step_Solution_Llama_3_1B.ipynb
+
